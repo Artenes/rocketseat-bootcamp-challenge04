@@ -1,10 +1,12 @@
 # Social network sample interface
 
 <p align="center">
-  <img src="images/screenshot.png" alt="Social network screenshot"/>
+  <a href="http://artenesbok.com/rocketseat-bootcamp-challenge04/">
+    <img src="images/screenshot.png" alt="Social network screenshot"/>
+  </a>
 </p>
 
-[Rocketseat's GoStack bootcamp](https://rocketseat.com.br/bootcamp) 4th challenge in learning React.
+[Rocketseat's GoStack bootcamp](https://rocketseat.com.br/bootcamp) 4th challenge in learning React. [See it live here](http://artenesbok.com/rocketseat-bootcamp-challenge04/).
 
 # About
 
